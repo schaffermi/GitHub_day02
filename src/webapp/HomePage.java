@@ -9,6 +9,8 @@ public class HomePage {
     //logo
     //hahaha
 
+    //footer
+
 
 
 }
